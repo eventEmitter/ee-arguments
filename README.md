@@ -29,7 +29,7 @@ assign values passed to a function to a variable by their type and optional by t
 	test( function(){ log.info( "custom function" ); } );
 
 	// prints «custom function»
-	test( 1, null new Error(), function(){ log.info( "custom function" ); }, "fancy_string" ); 
+	test( 1, null, new Error(), function(){ log.info( "custom function" ); }, "fancy_string" ); 
 
 
 
