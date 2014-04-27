@@ -16,7 +16,7 @@ parses the arguments array passed to a function by variable type and their posit
 
 ### Constructor
 
-Creates an instance of the Arguments class bounds to the current arguments object.
+Creates an instance of the Arguments class bound to the current arguments object.
 
 	var Arguments = require('ee-arguments');
 
@@ -75,6 +75,7 @@ For the types defined below there are specific methods available
 - buffer
 - null
 
+
 	var myFunction(){
 		var args = new Arguments(arguments);
 
@@ -83,6 +84,7 @@ For the types defined below there are specific methods available
 	};
 
 	myFunction(1, new String('do not use strings this way!'), 'second string');
+
 
 
 ## Verions History
