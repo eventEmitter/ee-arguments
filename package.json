@@ -1,7 +1,7 @@
 {
       "name"                        : "ee-arguments"
     , "description"                 : "parses the arguments array passed to a function by variable type and their position in the array, returns the requested type & position"
-    , "version"                     : "1.0.0"
+    , "version"                     : "1.0.1"
     , "homepage"                    : "https://github.com/eventEmitter/ee-arguments"
     , "author"                      : "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
     , "licence"                     : "MIT"

@@ -88,3 +88,4 @@ For the types defined below there are specific methods available
 ## Verions History
 
 - 1.0.0: complete rewrite, made it easier to user, made it faster. Chnaged the API
+- 1.0.1: Added travis.yml
