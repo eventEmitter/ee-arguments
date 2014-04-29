@@ -9,7 +9,7 @@ parses the arguments array passed to a function by variable type and their posit
 
 ## build status
 
-[![Build Status](https://travis-ci.org/eventEmitter/ee-class.png?branch=master)](https://travis-ci.org/eventEmitter/ee-arguments)
+[![Build Status](https://travis-ci.org/eventEmitter/ee-argv.png?branch=master)](https://travis-ci.org/eventEmitter/ee-arguments)
 
 
 ## API
