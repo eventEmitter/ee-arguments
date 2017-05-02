@@ -16,12 +16,12 @@
         "url"                       : "https://github.com/eventEmitter/ee-arguments/issues"
     }
     , "dependencies": {
-          "ee-log"                  : "0.2.*"
-        , "ee-types"                : "0.1.*"
-        , "ee-class"                : "1.0.*"
+          "ee-log"                  : "~2.0.2"
+        , "ee-types"                : "~2.1.2"
+        , "ee-class"                : "~1.4.0"
     }
     , "devDependencies": {
-          "mocha"                   : "1.17.x"
+          "mocha"                   : "~3.3.0"
     }
     , "optionalDependencies": {}
     , "keywords"                    : [ "function", "arguments", "parser" ]

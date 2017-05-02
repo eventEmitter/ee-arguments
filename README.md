@@ -1,5 +1,7 @@
 # ee-arguments
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/ee-arguments.svg)](https://greenkeeper.io/)
+
 parses the arguments array passed to a function by variable type and their position in the array, returns the requested type & position
 
 ## installation
